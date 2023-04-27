@@ -1,0 +1,66 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: 'Itim', cursive;
+    font-size: x-large;
+    color:#ffffff; 
+}
+body{
+    background-color:#f2f2f2;
+}
+.container{
+    background-color:cadetblue;
+    margin:150px 0 0 450px;
+    /* padding: 20px; */
+    width: 670px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 5px 13px #c3dbdc
+}
+h3{
+    padding-top: 14px;
+    font-weight: bolder;
+    text-align: center;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 3px black;
+    font-family: 'Righteous', cursive;
+}
+p,form{
+    margin: 15px 0 0 20px;
+
+}
+input{
+    width: 225px;
+    border-radius: 50px;
+    border: none;
+    padding: 2px;
+    outline:none;
+    margin:10px;
+}
+#billAmount{
+    margin-left: 135px;
+}
+#percentage{
+    margin-left: 34px;
+}
+#calculate{            
+    height: 38px;
+    width: 141px;
+    border-radius: 10px;
+    margin: 14px 0 0 272px;
+    background-color: #ffffff;
+    color: cadetblue;
+    border: none;
+}
+#calculate:hover{
+    background-color: burlywood;
+}
+#followme{
+    text-align: right;
+}
+#followme a{
+    margin-right: 18px
+}
+i{
+    padding-bottom:10px;
+}
