@@ -11,7 +11,7 @@ body{
 .container{
     background-color:cadetblue;
     margin:150px 0 0 450px;
-    /* padding: 20px; */
+    padding: 20px;
     width: 670px;
     border-radius: 10px;
     box-shadow: 0px 0px 5px 13px #c3dbdc
@@ -36,6 +36,7 @@ input{
     padding: 2px;
     outline:none;
     margin:10px;
+    color:cadetblue
 }
 #billAmount{
     margin-left: 135px;
